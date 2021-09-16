@@ -1,9 +1,35 @@
-My chosen design project ties different technologies together to make a cohesive environment and working product. The main control board will need to make use of these different technologies to function properly. It will need to be coded in a manner that allows it to be efficient and reliable. The control board will need to have several inputs, from the control app and the remote controller. Additionally, it will need to output power to the motor and control the charging of the batteries. Overall, this project will allow me to get experience with product design and creating a physical product that is software controlled.
+  My chosen design project ties different technologies together to make a cohesive environment and working product. 
+The main control board will need to make use of these different technologies to function properly. 
+It will need to be coded in a manner that allows it to be efficient and reliable. 
+The control board will need to have several inputs, from the control app and the remote controller. 
+Additionally, it will need to output power to the motor and control the charging of the batteries. 
+Overall, this project will allow me to get experience with product design and creating a physical product that is software controlled.
 
-During my college curriculum I have learned about different aspects of computer science and how they are related to the actual computers and software that our world makes use of everyday. This will help guide me in my Sr Design project. My previous experience in ENED 1020 Engineering Foundations of going from design requirements to the end project will help me make informed decisions in product design. When making decisions regarding the coding of the control board, the understanding of operating systems that I acquired from my EECE 4029 OPR SYS/SYS PROG class will be useful. The classes that I have taken that focused on software development, such as EECE 3093C SOFTWARE ENGR, will provide me with the knowledge I will need for creating the companion app for my physical project. Overall, the classes under my belt make me confident that I will have the knowledge needed to complete each aspect of my design project successfully.
+During my college curriculum I have learned about different aspects of computer science and how they are related to the actual computers and software that our world makes use of everyday. 
+This will help guide me in my Sr Design project. 
+My previous experience in ENED 1020 Engineering Foundations of going from design requirements to the end project will help me make informed decisions in product design. 
+When making decisions regarding the coding of the control board, the understanding of operating systems that I acquired from my EECE 4029 OPR SYS/SYS PROG class will be useful.
+The classes that I have taken that focused on software development, such as EECE 3093C SOFTWARE ENGR, will provide me with the knowledge I will need for creating the companion app for my physical project. 
+Overall, the classes under my belt make me confident that I will have the knowledge needed to complete each aspect of my design project successfully.
 
-In my time working with Saggezza as a software developer intern I learned how to manage a large project by breaking tasks into stories. This was done in a specific manner. Each story is written in a specific “GWT” format that gives insight into the context, the action being performed, and the expected result. The stories are taken on in a sprint basis. To know how many stories to take each sprint, the stories would be “pointed,” or assigned a point difficulty based on the projected time to complete. I intend to structure and manage the tasks for this SR design project in a similar manner, which will allow me to stay on track and more accurately estimate the time I need to dedicate to the project. 
+In my time working with Saggezza as a software developer intern I learned how to manage a large project by breaking tasks into stories. 
+This was done in a specific manner.
+Each story is written in a specific “GWT” format that gives insight into the context, the action being performed, and the expected result.
+The stories are taken on in a sprint basis.
+To know how many stories to take each sprint, the stories would be “pointed,” or assigned a point difficulty based on the projected time to complete.
+I intend to structure and manage the tasks for this SR design project in a similar manner,
+which will allow me to stay on track and more accurately estimate the time I need to dedicate to the project. 
 
-I have had this project in mind for a short time now and am excited to be able to work on it as my SR design project. During quarantine, my long-time friend and I decided that we would pick up a new hobby, skateboarding. While learning to skateboard and exploring some of the city around me, one thing was very apparent. That being how inconvenient and energy intensive it is to skate up the smallest incline. Power boards exist, but then I wouldn’t be on a skateboard anymore. Another option would be having to swap the front trucks of my board with a powered alternative that would require tools and time to go back to have to regular skateboard again. No one wants to attempt tricks while risking damage to expensive technology.
+I have had this project in mind for a short time now and am excited to be able to work on it as my SR design project.
+During quarantine, my long-time friend and I decided that we would pick up a new hobby, skateboarding.
+While learning to skateboard and exploring some of the city around me, one thing was very apparent.
+That being how inconvenient and energy intensive it is to skate up the smallest incline. 
+Power boards exist, but then I wouldn’t be on a skateboard anymore. 
+Another option would be having to swap the front trucks of my board with a powered alternative that would require tools and time to go back to have to regular skateboard again.
+No one wants to attempt tricks while risking damage to expensive technology.
 
-Thus, my idea for a solution was born. My initial approach is to design a powered wheel attachment that goes under your board and straps to it. The idea is to allow the conversion of any skateboard or longboard, into a powered board, and back again in a matter of seconds. By the end of this Sr Design project, I expect to have at least a working prototype of a marketable product. I will self-evaluate my work based on how well this protype works and if the components (i.e.  remote, battery management system, app, etc.) work amongst each other.
+Thus, my idea for a solution was born.
+My initial approach is to design a powered wheel attachment that goes under your board and straps to it.
+The idea is to allow the conversion of any skateboard or longboard, into a powered board, and back again in a matter of seconds.
+By the end of this Sr Design project, I expect to have at least a working prototype of a marketable product.
+I will self-evaluate my work based on how well this protype works and if the components (i.e.  remote, battery management system, app, etc.) work amongst each other.
