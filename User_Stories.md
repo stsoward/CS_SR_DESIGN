@@ -1,4 +1,4 @@
-In the following user stories, __“the device”__ refers to the physical powered wheel attachment.<br>
+In the following user stories, __“the device”__ refers to the physical powered wheel attachment.<br><br>
 As a __user__, I want to __turn on or off the device__, so that I can __use the device or stop using it when I please and preserve the battery__.<br>
 As a __user__, I want to __control the speed of the device via the remote__, so that I can __speed up or slow down appropriately accord to my environment__.<br>
 As a __user__, I want to __be able to brake via the remote__, so that I can __stop moving quickly and safely when needed__.<br>
