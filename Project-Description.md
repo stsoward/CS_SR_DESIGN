@@ -1,8 +1,8 @@
 ## This is the project description
 
-## Team Name
+## eeZPower
 
-  This is the team name
+  --
 
 ## Team Members
 
