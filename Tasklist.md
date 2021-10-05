@@ -14,9 +14,9 @@ Design and refine the following elements of the physical device: <br>
 - compensation for change of clearance during turning <br>
 ## Application Development <br>
 Develop application interface <br>
-Develop Bluetooth connectivity to microcontroller (of the device) to be able to do the following:  <br>
-- send change of mode to device, send request for and receive battery level, send request for and receive trip statistics
 Develop storage for trip statistics history  <br>
+Develop Bluetooth connectivity to microcontroller (of the device) to be able to do the following:  <br>
+- send change of mode to device, send request for and receive battery level, send request for and receive trip statistics <br>
 ## Microcontroller Development <br>
 Develop code for controlling speed of motor <br>
 Develop motor controls for each power mode <br>
