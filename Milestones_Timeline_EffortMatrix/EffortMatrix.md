@@ -1,4 +1,4 @@
-There is no division of labor since this is a one person team.
+*There is no division of labor since this is a one person team.
 Task | Member | Effort
 -------|-------|-------
 Research / Identify microcontroller with Bluetooth and radio control capabilities | Stone Soward | 100%
