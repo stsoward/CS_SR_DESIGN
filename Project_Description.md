@@ -1,4 +1,4 @@
-#### [< Back](../README.md)
+#### [< Back](../main/README.md)
 ## This is the project description
 
 ## eeZPower
