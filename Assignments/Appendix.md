@@ -1,5 +1,5 @@
 # Project Components
-[Physical Components](../main/Assignments/Physical_Components.md)
+[Physical Components](../Assignments/Physical_Components.md)
 # Physical Design
 [Physical Design Sketch](../Assignments/Design_Diagrams/Physical_Design_Sketch.png)
 # Reference Materials Used
@@ -8,7 +8,7 @@ more to be added
 # Repository Link
 [Source Code](..main/src)
 # Meeting Notes
-[Project Status](../main/Assignments/Project_Status.md)
+[Project Status](../Assignments/Project_Status.md)
 # Hour Log
 Category | Hours Spent
 ------ | ------
