@@ -7,7 +7,7 @@
 - [High Level Design (D0)](../main/Assignments/Design_Diagrams/D0.png) <br>
 - [Mid Level Design (D1)](../main/Assignments/Design_Diagrams/D1.png) <br>
 - [Low Level Design (D2)](../main/Assignments/Design_Diagrams/D2.png) <br>
-- [User Stories](../mainAssignments/User_Stories.md)
+- [User Stories](../main/Assignments/User_Stories.md)
 ### 4. Project Tasks and Timeline and Effort Matrix
 - [Task List](../main/Assignments/Task_List.md) <br>
 - [Timeline](../main/Assignments/Milestones_Timeline_EffortMatrix/Timeline.md) <br>
