@@ -5,7 +5,7 @@ Jason Heyl (heyljn@ucmail.uc.edu)
 # Team Meetings
 Since this is a one-person team, meetings will not be held on a certain day of the week.  <br>
 However, every week on Friday, work that has been done during the prior week will be listed to document progress. <br>
-This will be maintained on the [Project_Status](/Project_Status.md) document. <br>
+This will be maintained on the [Project_Status](/Assignments/Project_Status.md) document. <br>
 The total hours dedicated to the project will be kept track of on the [Appendix](/Appendix.md#hour-log) document.
 # Project Focus
 Focus will be put on having a complete demonstratable product by the expo on 4/12/22. Certain aspects of the project may be limited in interest of this focus. This aspect is more thoroughly described in the [Major Constraints](../main/Assignments/Major_Project_Constraints.md) Document.
