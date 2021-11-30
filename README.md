@@ -1,4 +1,4 @@
-# CS_SR_DESIGN
+# Senior Design Project eeZPower
 ## Table of Contents
 ### 1. eeZPower Members & Abstract
 - Stone Soward (sowardse@mail.uc.edu) <br>
