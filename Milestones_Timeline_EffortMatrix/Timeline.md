@@ -17,7 +17,7 @@ D: storage for trip statistics history | 15-Nov | 92
 D: code for controlling speed of motor | 15-Nov | 61
 D: motor controls for each power mode | 15-Nov | 61
 D: battery management system | 15-Nov | 61
-D: radio control inputs	15-Nov | 61
+D: radio control inputs | 15-Nov | 61
 D: Bluetooth connectivity to app for sending of battery level and trip statistics | 15-Nov | 92
 Obtain all components | 30-Nov | 1
 Finish development on motor and battery controls | 15-Jan | 1
