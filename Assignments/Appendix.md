@@ -18,3 +18,5 @@ Physical Design Development | 5
 Application Development | 0
 Microcontroller Development | 4
 Testing | 0
+# [Team Contract](../main/Assignments/Team_Contract.md)
+# [Project Constraints](../main/Assignments/Major_Project_Constraints.md)
