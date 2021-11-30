@@ -1,9 +1,6 @@
 # Senior Design Project eeZPower
 ## Table of Contents
-### 1. eeZPower Members & Abstract
-- Stone Soward (sowardse@mail.uc.edu) <br>
-- Project Advisor: Jason Heyl (heyljn@ucmail.uc.edu)
-- [Abstract](../main/Abstract.md)
+### 1. [eeZPower Members](../main/Project_Description.md##Team) & [Abstract]( ../main/Project_Description.md##Abstract)
 ### 2. [Project Description](../main/Project_Description.md)
 ### 3. User Stories & Design Diagrams
 - [Design Diagram Decription]()
