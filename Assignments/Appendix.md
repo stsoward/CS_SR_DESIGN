@@ -8,7 +8,7 @@ more to be added
 # Repository Link
 [Source Code](../src)
 # Meeting Notes
-[Project Status](../Assignments/Project_Status.md)
+[Project Status](../Assignments/Project_Status.md#project-status)
 # Hour Log
 Category | Hours Spent
 ------ | ------
