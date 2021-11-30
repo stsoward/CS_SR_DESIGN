@@ -16,9 +16,7 @@
 ### 5. PPT Slide Show
 - [Slide Deck](fill) <br>
 - [Presentation Video]( fill)
-### 6. Self-Assessment Essays
-- [Stone Soward Capstone](../main/HW_Essays/Individual_Capstone)
-### 7. Professional Biographies
-- [Stone Soward Bio](../main/Professional_Bios/Stone_Soward_Bio.md)
+### 6. [Self-Assessment Essay](../main/HW_Essays/Individual_Capstone)
+### 7. [Professional Biography](../main/Professional_Bios/Stone_Soward_Bio.md)
 ### 8. [Budget](../main/Budget.md)
 ### 9. [Appendix](../main/Appendix.md)
