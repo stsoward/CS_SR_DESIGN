@@ -6,4 +6,4 @@ Design Diagrams Completed <br>
 View Here: [Design Diagrams](../main/Design_Diagrams)
 ### September 17th
 Team Contract and Individual Capstone Assignment Completed <br>
-View Here: [Individual Capstone](../main/HW_Essays/Individual_Capstone) [Team Contract]()
+View Here: [Individual Capstone](../main/HW_Essays/Individual_Capstone) [Team Contract](../main/Team_Contract)
