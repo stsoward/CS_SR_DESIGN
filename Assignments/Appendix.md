@@ -1,7 +1,7 @@
 # Project Components
-[Physical Components](../main/Physical_Design/Physical_Components.md)
+[Physical Components](../Physical_Design/Physical_Components.md)
 # Physical Design
-[Physical Design Sketch](../main/Physical_Design/Physical_Design_Sketch.png)
+[Physical Design Sketch](../Physical_Design/Physical_Design_Sketch.png)
 # Reference Materials Used
 [ESP32 – DC Motor tutorial](https://esp32io.com/tutorials/esp32-dc-motor) <br>
 more to be added
