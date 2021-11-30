@@ -6,7 +6,7 @@
 [ESP32 – DC Motor tutorial](https://esp32io.com/tutorials/esp32-dc-motor) <br>
 more to be added
 # Repository Link
-[Source Code](..main/src)
+[Source Code](../src)
 # Meeting Notes
 [Project Status](../Assignments/Project_Status.md)
 # Hour Log
