@@ -28,15 +28,4 @@ Test the battery charging | 15-Feb | 30
 Test the device motor output | 15-Feb | 30
 Test the physical design and capability to adapt to different boards | 15-Feb | 30
 Complete Physical Design | 15-Mar | 1
-Begin final testing and presentation preparation | 1-Apr | 1115-Nov | 61
-D: Bluetooth connectivity to app for sending of battery level and trip statistics | 15-Nov | 92
-Obtain all components | 30-Nov | 1
-Finish development on motor and battery controls | 15-Jan | 1
-Complete application development | 15-Feb | 1
-Test the communication between the remote control and the device | 15-Feb | 30
-Test the communication between the app and the control board | 15-Feb | 30
-Test the battery charging | 15-Feb | 30
-Test the device motor output | 15-Feb | 30
-Test the physical design and capability to adapt to different boards | 15-Feb | 30
-Complete Physical Design | 15-Mar | 1
-Begin final testing and presentation preparation | 1-Apr | 11
+Begin final testing and presentation preparation | 1-Apr | 1
