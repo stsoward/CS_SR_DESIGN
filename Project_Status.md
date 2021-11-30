@@ -2,7 +2,7 @@
 #### Status updates are made on Fridays on a weekly basis
 
 ### September 24th
-Design Diagrams Completed 
+Design Diagrams Completed <br>
 View Here: [Design Diagrams](../main/Design_Diagrams)
 ### September 17th
 Team Contract and Individual Capstone Assignment Completed
