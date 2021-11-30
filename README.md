@@ -1,7 +1,7 @@
 # Senior Design Project eeZPower
 ## Table of Contents
 ### 1. [eeZPower Members](../main/Assignments/Project_Description.md#team-members) & [Abstract]( ../main/Assignments/Project_Description.md#abstract)
-### 2. [Project Description](../main/Assignments/Project_Description.md)
+### 2. [Project Description](../main/Assignments/Project_Description.md#project-description)
 ### 3. User Stories & Design Diagrams
 - [Design Diagram Description](../main/Assignments/Design_Diagrams/Design_Description.md)
 - [High Level Design (D0)](../main/Assignments/Design_Diagrams/D0.png) <br>
