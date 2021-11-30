@@ -1,7 +1,7 @@
 # CS_SR_DESIGN
 # Table of Contents
 1. eeZPower Members & Abstract
-- Stone Soward (sowardse@mail.uc.edu) <br>
+#### - Stone Soward (sowardse@mail.uc.edu) <br>
 - Project Advisor: Jason Heyl (heyljn@ucmail.uc.edu)
 - [Abstract](../main/Abstract.md)
 2. [Project Description](../main/Project_Description.md)
