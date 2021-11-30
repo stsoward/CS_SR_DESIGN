@@ -1,5 +1,5 @@
 # Project Components
-[Physical Components](../Physical_Design/Physical_Components.md)
+[Physical Components](../Physical_Design/Physical_Components.md#project-components)
 # Physical Design
 [Physical Design Sketch](../Physical_Design/Design_Sketch.png)
 # Reference Materials Used
