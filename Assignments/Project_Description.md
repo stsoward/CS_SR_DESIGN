@@ -3,7 +3,7 @@ Create a motorized wheel attachment for any type of board with wheels.
 ## Team Name: eeZPower
 ## Team Members
 Stone Soward - CS Major - sowardse@mail.uc.edu <br>
-Project Advisor - Jason Heyl - heyljn@ucmail.uc.edu
+Jason Heyl - Project Advisor - heyljn@ucmail.uc.edu
 ## Project Topic Area
 Mobile App Development, Microcontroller Code Development, Electrical Engineering and Product Design.
 ## Abstract
