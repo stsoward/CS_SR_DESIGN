@@ -4,7 +4,7 @@
 ### October 15th
 - [Major Project Constraints](../main/Assignments/Major_Project_Constraints.md) Completed
 ### October 8th
-- [Timeline]( ../main/Assignments/Milestones_Timeline_EffortMatrix/Timeline.md), [Effort Matrix](../main/Assignments/Milestones_Timeline_EffortMatrix/EffortMatrix.md) and [Milestones](../main/Assignments/Milestones_Timeline_EffortMatrix/Milestones.md) Completed <br>
+- [Timeline]( ../main/Assignments/Milestones_Timeline_EffortMatrix/Timeline.md), [Effort Matrix](/Assignments/Milestones_Timeline_EffortMatrix/EffortMatrix.md) and [Milestones](../main/Assignments/Milestones_Timeline_EffortMatrix/Milestones.md) Completed <br>
 - Graph view of timeline here: [Timeline_Graph](../main/Assignments/Milestones_Timeline_EffortMatrix/Timeline_Graph.PNG)
 ### October 1st
 - [Task List](../main/Assignments/Task_List.md) Completed
