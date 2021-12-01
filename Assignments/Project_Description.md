@@ -5,7 +5,7 @@ Create a motorized wheel attachment for any type of board with wheels.
 Stone Soward - CS Major - sowardse@mail.uc.edu <br>
 Project Advisor: Jason Heyl (heyljn@ucmail.uc.edu)
 ## Project Topic Area
-Mobile App managed RC Powered Wheel for Boards
+Mobile App Development, Microcontroller Development, Electrical Engineering and Product Design.
 ## Abstract
 The goal of eeZPower is to create a device that can be quickly attached to any type of board (skateboard, longboard,etc) that provides the convenience of a motorized one while being just as quick to remove. It does not take long going up a small incline to realize how inconvenient and energy intensive it is. Current solutions are either expensive or require tools to attach. Our device aims to solve those issues while allowing your board’s original hardware to stay intact.
 ## Existing Solutions
