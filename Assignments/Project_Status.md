@@ -1,8 +1,6 @@
 ## Project Status  
 #### Status updates are made on Fridays on a weekly basis
 
-### October 22nd
-- [Physical Component Breakdown](../main/Assignments/Physical_Components.md) Added
 ### October 15th
 - [Major Project Constraints](../main/Assignments/Major_Project_Constraints.md) Completed
 ### October 8th
