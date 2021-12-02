@@ -8,7 +8,7 @@
 - GitHub Repository Reorganized
 ### November 19th
 - Began Development with Microcontroller within Arduino IDE <br>
-- [Source Code](/src/blank) to be stored here.
+- [Source Code](/src) to be stored here.
 ### November 12th
 - Most Preliminary Research and Identification of Physical Components Complete <br>
 - [Physical Componens](/Physical_Design/Physical_Components.md)
