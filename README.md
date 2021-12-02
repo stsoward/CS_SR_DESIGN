@@ -14,8 +14,8 @@
 - [Timeline Graph](../main/Assignments/Milestones_Timeline_EffortMatrix/Timeline_Graph.PNG) <br>
 - [Effort Matrix](../main/Assignments/Milestones_Timeline_EffortMatrix/EffortMatrix.md)
 ### 5. PPT Slide Show
-- [Slide Deck](fill) <br>
-- [Presentation Video]( fill)
+- [Slide Deck](https://mailuc-my.sharepoint.com/:p:/g/personal/sowardse_mail_uc_edu/ESL88kLFyiRMr7FFkHLNQtYBgWce9nm41Ck0X09JEaWZwg?e=yXnJ50) <br>
+- [Presentation Video](https://mailuc-my.sharepoint.com/:v:/g/personal/sowardse_mail_uc_edu/Ee-neRmtJUdDhbP5sGOfbPYBOvK74LlEmz0pQi676Uf0OQ?e=8Ix0BB)
 ### 6. [Self-Assessment Essay](../main/Assignments/HW_Essays/Individual_Capstone)
 ### 7. [Professional Biography](../main/Assignments/Professional_Bios/Stone_Soward_Bio.md#stone-soward)
 ### 8. [Budget](../main/Assignments/Budget.md)
