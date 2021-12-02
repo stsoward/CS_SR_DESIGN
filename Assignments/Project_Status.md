@@ -11,7 +11,7 @@
 - [Source Code](/src) to be stored here.
 ### November 12th
 - Most Preliminary Research and Identification of Physical Components Complete <br>
-- [Physical Componens](/Physical_Design/Physical_Components.md)
+- [Physical Components](/Physical_Design/Physical_Components.md)
 ### November 5th
 - [Physical Design](/Physical_Design) Folder Added <br>
 - [Physical Design Sketch](/Physical_Design/Design_Sketch.png) Added
