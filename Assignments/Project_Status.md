@@ -19,11 +19,11 @@
 - Slide Presentation Complete <br>
 - [Slide Deck](https://mailuc-my.sharepoint.com/:p:/g/personal/sowardse_mail_uc_edu/ESL88kLFyiRMr7FFkHLNQtYBgWce9nm41Ck0X09JEaWZwg?e=yXnJ50) [Presentation](https://mailuc-my.sharepoint.com/:v:/g/personal/sowardse_mail_uc_edu/Ee-neRmtJUdDhbP5sGOfbPYBOvK74LlEmz0pQi676Uf0OQ?e=8Ix0BB)
 ### October 22nd
-- [Physical Component Breakdown](../main/Assignments/Physical_Components.md) Added
+- [Physical Component Breakdown](/Assignments/Physical_Components.md) Added
 ### October 15th
-- [Major Project Constraints](/Assignments/Major_Project_Constraints.md) Completed
+- [Major Project Constraints](/Assignments/Major_Project_Constraints.md#time) Completed
 ### October 8th
-- [Timeline]( /Assignments/Milestones_Timeline_EffortMatrix/Timeline.md), [Effort Matrix](/Assignments/Milestones_Timeline_EffortMatrix/EffortMatrix.md) and [Milestones](/Assignments/Milestones_Timeline_EffortMatrix/Milestones.md) Completed <br>
+- [Timeline](/Assignments/Milestones_Timeline_EffortMatrix/Timeline.md), [Effort Matrix](/Assignments/Milestones_Timeline_EffortMatrix/EffortMatrix.md) and [Milestones](/Assignments/Milestones_Timeline_EffortMatrix/Milestones.md) Completed <br>
 - Graph view of timeline here: [Timeline_Graph](/Assignments/Milestones_Timeline_EffortMatrix/Timeline_Graph.PNG)
 ### October 1st
 - [Task List](/Assignments/Task_List.md) Completed
