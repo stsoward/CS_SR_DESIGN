@@ -1,4 +1,4 @@
-# Task List <br>
+# Task List
 ## Preliminary Research Tasks <br>
 Research and Identify: <br>
 - microcontroller with Bluetooth and radio control capabilities <br>
