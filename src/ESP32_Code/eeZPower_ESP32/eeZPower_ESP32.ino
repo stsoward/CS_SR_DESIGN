@@ -39,7 +39,7 @@ void loop() {
      *     Serial.println(VESCUART.data.rpm);
     */
     /*create a string with all the needed values and send it to the App over bluetooth*/
-    String sendToApp = "volt=" + String(VESCUART.data.inputVoltage) + "|" + "rpm=" + String(VESCUART.data.rpm) + "|" + "tach=" + String(VESCUART.data.tachometerValue;
+    String sendToApp = "volt=" + String(VESCUART.data.inputVoltage) + "|" + "rpm=" + String(VESCUART.data.rpm) + "|" + "tach=" + String(VESCUART.data.tachometerValue);
     //Serial.println(sendToApp);
     SerialBT.println(sendToApp);
   }
