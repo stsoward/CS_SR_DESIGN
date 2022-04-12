@@ -20,4 +20,4 @@
 ### 7. [Professional Biography](../main/Assignments/Professional_Bios/Stone_Soward_Bio.md#stone-soward)
 ### 8. [Budget](../main/Assignments/Budget.md)
 ### 9. [Appendix](../main/Assignments/Appendix.md#project-components)
-### 10 [Resource References](../main/Assignments_Sem2/Resource_References)
+### 10. [Resource References](../main/Assignments_Sem2/Resource_References.md)
