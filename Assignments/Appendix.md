@@ -4,20 +4,14 @@
 [Physical Design Sketch](../Physical_Design/Design_Sketch.png)
 # Reference Materials Used
 [ESP32 – DC Motor tutorial](https://esp32io.com/tutorials/esp32-dc-motor) <br>
-more to be added
+http://vedder.se/2015/10/communicating-with-the-vesc-using-UART/
+https://github.com/SolidGeek/VescUART
+https://www.youtube.com/watch?v=lDuV8cnPRmI
+https://www.electronicshub.org/esp32-bluetooth-tutorial/
+https://www.youtube.com/watch?v=pS1g6yfzm0U
+https://www.youtube.com/watch?v=wLRQ9EClYuA&list=PLnXRvFF5kgYYCdM_kJp7q50MVIB4SxFwt&index=8
 # Repository Link
 [Source Code](../src)
-# Meeting Notes
-[Project Status](../Assignments/Project_Status.md#project-status)
-# Hour Log
-Category | Hours Spent
------- | ------
-Fall Semester Assignments | 26
-Preliminary Research | 10
-Physical Design Development | 5
-Application Development | 0
-Microcontroller Development | 4
-Testing | 0
 # Other Documents
 [Team Contract](/Assignments/Team_Contract.md#team-members)
 [Project Constraints](/Assignments/Major_Project_Constraints.md#time)
