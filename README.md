@@ -8,4 +8,4 @@
 ### 6. [Final Expo Poster](../main/Assignments_Sem2/StoneSoward_SrDesignPoster.pdf)
 ### 7. [Initial Self-Assessments](../main/Assignments/HW_Essays/Individual_Capstone) and [Final Self-Assessments](../main/Assignments_Sem2/Final_Assesment)
 ### 8. [Summary of Hours and Justification](../main/Assignments_Sem2/Summary_of_Hours.md)
-### 9. [Summary of Expenses](../main/Assignments_Sem2/Budget.md)
+### 9. [Summary of Expenses](../main/Assignments/Budget.md)
