@@ -5,7 +5,7 @@
 ### 3. [Test Plan](../main/Assignments_Sem2/Test_Plan.md) and [Results](../main/Assignments_Sem2/Test_Results.md)
 ### 4. [User Manual](../main/Assignments_Sem2/User_Manual.md)
 ### 5. [Spring Final PPT Presentation](../main/Assignments_Sem2)
-### 6. [Final Expo Poster](../main/Assignments_Sem2)
+### 6. [Final Expo Poster](../main/Assignments_Sem2/StoneSoward_SrDesignPoster.pdf)
 ### 7. [Initial Self-Assessments](../main/Assignments/HW_Essays/Individual_Capstone) and [Final Self-Assessments](../main/Assignments_Sem2)
 ### 8. [Summary of Hours and Justification](../main/Assignments_Sem2)
 ### 9. [Summary of Expenses](../main/Assignments_Sem2)
