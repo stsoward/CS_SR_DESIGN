@@ -28,7 +28,7 @@ Open your application
 
 The home page allows you to control your Bluetooth connections and pair to the eeZPower device. Please make sure you have powered on your device.
 
-![eeZPower_App_1](https://user-images.githubusercontent.com/17459282/164178161-715ccfa3-64b6-4fcf-8843-ea7a1429a5fe.jpg)
+![image](https://user-images.githubusercontent.com/17459282/164178574-040c5275-1390-42a7-9255-23e0b08b48b5.png)
 
 Once you are paired you are ready to use the app.
 
