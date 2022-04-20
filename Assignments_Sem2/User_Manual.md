@@ -16,6 +16,12 @@ Power on your remote:
 
 Your device is ready to go!
 
+How do I charge my device?
+
+- The charging port is located on the side of the device. Plug in the charger and plug the charger into the wall. Charger light turns green when full charge is reached
+
+![IMG_0205](https://user-images.githubusercontent.com/17459282/164177147-5700a7dd-dab7-4433-8db4-90f605652888.jpg)
+
 #### eeZPower App
 
 Open your application
