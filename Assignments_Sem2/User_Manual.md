@@ -4,7 +4,7 @@ eeZPower Device
 
 Attach your device:
 
-•	Using the included hardware please secure the device to your board (for the final design Velcro straps were used)
+-	Using the included hardware please secure the device to your board (for the final design Velcro straps were used)
 
 Turn on your device:
 
