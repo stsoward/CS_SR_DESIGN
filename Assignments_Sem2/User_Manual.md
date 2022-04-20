@@ -53,3 +53,5 @@ How to I ride in eco-mode?
 -	Power mode can be viewed and changed on the Mode page
 
 ![image](https://user-images.githubusercontent.com/17459282/164179221-d82bba68-7d33-4dbe-bf33-e925e1908a34.png)
+
+[Photos Above](https://drive.google.com/drive/folders/1ul_prszWwL_oM2aJAcLf3tpkqyB6chbU)
