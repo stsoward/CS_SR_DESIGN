@@ -1,7 +1,7 @@
 # Senior Design Project eeZPower
 ## Table of Contents
 ### 1. [Project Description](../main/Assignments/Project_Description.md#project-description)
-### 2. [User Interface Specification](../main/Assignments_Sem2)
+### 2. [User Interface Specification](../main/Assignments_Sem2/User_Interface_Specification.md)
 ### 3. [Test Plan](../main/Assignments_Sem2) and [Results](../main/Assignments_Sem2)
 ### 4. [User Manual](../main/Assignments_Sem2)
 ### 5. [Spring Final PPT Presentation](../main/Assignments_Sem2)
