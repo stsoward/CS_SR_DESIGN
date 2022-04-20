@@ -7,5 +7,5 @@
 ### 5. [Spring Final PPT Presentation](https://docs.google.com/presentation/d/16yn9Cp9ksiIHua4f99VkaLNVpQd9gSHK/edit?usp=sharing&ouid=103037768715377898785&rtpof=true&sd=true) (external link)
 ### 6. [Final Expo Poster](../main/Assignments_Sem2/StoneSoward_SrDesignPoster.pdf)
 ### 7. [Initial Self-Assessments](../main/Assignments/HW_Essays/Individual_Capstone) and [Final Self-Assessments](../main/Assignments_Sem2/Final_Assesment)
-### 8. [Summary of Hours and Justification](../main/Assignments_Sem2_Summary_of_Hours)
+### 8. [Summary of Hours and Justification](../main/Assignments_Sem2/Summary_of_Hours)
 ### 9. [Summary of Expenses](../main/Assignments_Sem2/Budget)
