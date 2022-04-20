@@ -28,7 +28,7 @@ Open your application
 
 The home page allows you to control your Bluetooth connections and pair to the eeZPower device. Please make sure you have powered on your device.
 
-![image](https://user-images.githubusercontent.com/17459282/164178574-040c5275-1390-42a7-9255-23e0b08b48b5.png)
+![image](https://user-images.githubusercontent.com/17459282/164179051-76d60256-116b-43ab-842c-8193a58bd69a.png)
 
 Once you are paired you are ready to use the app.
 
@@ -36,7 +36,7 @@ How do I view battery voltage?
 
 -	Battery voltage is displayed in the Stats page. Click the Stats Icon along the bottom of the screen
 
-![eeZPower_App_2](https://user-images.githubusercontent.com/17459282/164178195-56ffb919-23a6-491c-a541-72011b08d698.jpg)
+![image](https://user-images.githubusercontent.com/17459282/164179105-58c94866-54b8-4e38-8ea4-6d20a55a5185.png)
 
 How do I view live device speed?
 
@@ -46,10 +46,10 @@ How do I record a trip?
 
 -	Trip recording is done on the Trips page
 
-![eeZPower_App_3](https://user-images.githubusercontent.com/17459282/164178226-39ff2cbe-3b99-4e08-933d-2403ccd554ff.jpg)
+![image](https://user-images.githubusercontent.com/17459282/164179172-160efce2-4e3b-409d-b5cb-784aa056da26.png)
 
 How to I ride in eco-mode?
 
 -	Power mode can be viewed and changed on the Mode page
 
-![eeZPower_App_4](https://user-images.githubusercontent.com/17459282/164178262-ddaf325c-88c2-436d-88b2-15fc35bddef6.jpg)
+![image](https://user-images.githubusercontent.com/17459282/164179221-d82bba68-7d33-4dbe-bf33-e925e1908a34.png)
