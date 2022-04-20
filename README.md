@@ -1,6 +1,19 @@
 # Senior Design Project eeZPower
 ## Table of Contents
-### 1. [eeZPower Members](../main/Assignments/Project_Description.md#team-members) & [Abstract]( ../main/Assignments/Project_Description.md#abstract)
+### 1. [Project Description](../main/Assignments/Project_Description.md#project-description)
+### 2. [User Interface Specification](../main/Assignments_Sem2)
+### 3. [Test Plan](../main/Assignments_Sem2) and [Results](../main/Assignments_Sem2)
+### 4. [User Manual](../main/Assignments_Sem2)
+### 5. [Spring Final PPT Presentation](../main/Assignments_Sem2)
+### 6. [Final Expo Poster](../main/Assignments_Sem2)
+### 7. [Initial Self-Assessments](../main/Assignments/HW_Essays/Individual_Capstone) and [Final Self-Assessments](../main/Assignments_Sem2)
+### 8. [Summary of Hours and Justification](../main/Assignments_Sem2)
+### 9. [Summary of Expenses](../main/Assignments_Sem2)
+
+----
+old readme below
+
+[eeZPower Members](../main/Assignments/Project_Description.md#team-members) & [Abstract]( ../main/Assignments/Project_Description.md#abstract)
 ### 2. [Project Description](../main/Assignments/Project_Description.md#project-description)
 ### 3. User Stories & Design Diagrams
 - [Design Diagram Description](../main/Assignments/Design_Diagrams/Design_Description.md)
